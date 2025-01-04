@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshansalian53" alt="darshansalian53" /></a> </p>
 
-- 🔭 I’m currently working on **Sign language detection**
+- 🔭 I’m currently working on **Leaf identification using CNN**
 
 - 🌱 I’m currently learning **Graphic designing, go**
 
