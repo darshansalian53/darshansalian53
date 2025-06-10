@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Leaf identification using CNN**
 
-- 🌱 I’m currently learning **Graphic designing, go**
+- 🌱 I’m currently learning **Java, go**
 
 - 📫 How to reach me **darshansalian53@gmail.com**
 
